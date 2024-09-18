@@ -8,15 +8,10 @@
             "id": "0"
         }
     ],
-    "plus": {
-       "version": 0,
-       "mentionLineColor": "#6786CA",
-       "iconpack": "rosiecord-plumpy"
   },
     "background": {
-        "blur": 0.5,
+        "blur": 1,
         "url": "https://raw.githubusercontent.com/Bratan14/Artans-Enmity-Themes/main/backgrounds/rei.jpeg",
         "alpha": 0.7
     },
-        "color": "#EA42CD"
 }
