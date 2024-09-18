@@ -1,0 +1,15 @@
+{
+    "name": "2B",
+    "description": "2B background.",
+    "authors": [
+        {
+            "name": "Artan",
+            "id": "0"
+        }
+    ],
+    "background": {
+        "blur": 1,
+        "url": "https://raw.githubusercontent.com/Bratan14/Bratans-Enmity-Themes/main/backgrounds/2b-scaled.png",
+        "alpha": 0.7
+    }
+}
