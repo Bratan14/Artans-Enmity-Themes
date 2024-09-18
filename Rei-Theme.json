@@ -2,16 +2,14 @@
     "name": "Rei",
     "description": "Rei background.",
     "authors": [
-
         {
             "name": "Artan",
             "id": "0"
         }
     ],
-  },
     "background": {
         "blur": 1,
         "url": "https://raw.githubusercontent.com/Bratan14/Artans-Enmity-Themes/main/backgrounds/rei.jpeg",
         "alpha": 0.7
-    },
+    }
 }
