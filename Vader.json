@@ -41,13 +41,9 @@
       "#363636",
       "#FFFFFF"
     ],
-    "BACKGROUND_SECONDARY": [
-      "#170c0e",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#170c0e",
-      "#FFFFFF"
+    "BACKGROUND_PRIMARY": [
+      "#120c0e",
+      "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
       "#000000",
