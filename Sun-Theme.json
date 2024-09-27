@@ -7,9 +7,13 @@
             "id": "0"
         }
     ],
-    "background": {
-        "blur": 1,
-        "url": "https://raw.githubusercontent.com/Bratan14/Bratans-Enmity-Themes/main/backgrounds/IMG_3239.png",
-        "alpha": 0.7
-    }
+   "semanticColors":{
+      "BACKGROUND_FLOATING":[
+         "#0f1725"
+      ]
+   },
+   "background":{
+      "url":"https://raw.githubusercontent.com/Bratan14/Bratans-Enmity-Themes/main/backgrounds/IMG_3239.png",
+      "alpha":0.7
+   }
 }
