@@ -4,7 +4,7 @@
   "color": "#DA4453",
   "authors": [
     {
-      "name": "neinkatze, Artan",
+      "name": "Artan",
       "id": "1125315673829154837"
     }
   ],
@@ -40,10 +40,6 @@
     "INTERACTIVE_MUTED": [
       "#363636",
       "#FFFFFF"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#120c0e",
-      "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
       "#170c0e",
