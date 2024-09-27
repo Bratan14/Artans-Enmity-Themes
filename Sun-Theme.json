@@ -8,8 +8,8 @@
         }
     ],
    "semanticColors":{
-      "BACKGROUND_FLOATING":[
-         "#0f1725"
+      "BACKGROUND_MESSAGE_HOVER":[
+         "#7386a7"
       ]
    },
    "background":{
